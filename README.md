@@ -1,2 +1,2 @@
 # AndroidJAVA-Code
-Java codes for android application for android studio
+Java and XML codes for android application for android studio
